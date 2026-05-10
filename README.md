@@ -48,3 +48,6 @@ Settings → Pages → Deploy from a branch → main / root → Save
 - O JavaScript fica em `assets/js/main.js`.
 - O modal de ampliação das imagens abre na própria página.
 - O vídeo do YouTube possui botão de fallback caso o navegador bloqueie o embed.
+
+
+Atualização: cards de imagens da seção de equipamentos ajustados para ficarem com o mesmo tamanho visual.
