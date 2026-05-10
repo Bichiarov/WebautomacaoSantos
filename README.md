@@ -1,13 +1,1 @@
-# Web Automação Santos
-
-Versão segura para GitHub Pages.
-
-Envie somente o arquivo `index.html` para a raiz do repositório.
-
-A primeira linha do arquivo precisa ser:
-
-```html
-<!DOCTYPE html>
-```
-
-Se o site mostrar códigos CSS, símbolos estranhos ou `JFIF`, o arquivo errado foi enviado como `index.html`.
+VERSÃO AJUSTADA COM IMAGENS REDIMENSIONADAS PARA CABER MELHOR NAS CAIXAS.
