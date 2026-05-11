@@ -153,3 +153,17 @@ h1,h2,h3,p{margin-top:0}h1{font-size:clamp(42px,6vw,72px);line-height:1.02;lette
     aspect-ratio: 1 / 1;
   }
 }
+
+
+/* Ajuste de legibilidade dos cards de suporte */
+.support-cards div {
+  line-height: 1.35;
+}
+
+
+/* Ícone do WhatsApp no botão flutuante */
+.floating-whatsapp svg {
+  width: 28px;
+  height: 28px;
+  display: block;
+}
